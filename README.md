@@ -1,6 +1,6 @@
 # armanjunach12.
 "My personal repository."
-# Hi there, I'm Arman altafbhai junach 👋
+# Hi there, I'm Arman junach 👋
 
 Welcome to my GitHub profile! I am a passionate **Web Developer** and **C++ enthusiast**. I love building creative projects and solving complex problems. Here, you will find a variety of repositories showcasing my journey and growth in the world of programming.
 
